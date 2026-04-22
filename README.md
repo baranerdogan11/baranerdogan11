@@ -72,10 +72,10 @@ Data visualisation of 190,300 street trees across San Francisco using R — spat
 <tr>
 <td width="50%">
 
-**[EMOJI] [YOUR THIRD PROJECT]**  
-[2–3 sentence description. What problem does it solve? What did you build? What's the interesting technical decision?]
+**🚀 Kickstarter Campaign Success Prediction**  
+Binary classifier trained on ~160k campaigns to predict funding success using only pre-launch information. Compared 6 models (Random Forest, XGBoost, Logistic Regression, MLP, GB, Decision Tree) with chronological train/val/test splits — Logistic Regression won on the test set despite losing on validation, a textbook case of simpler models generalising better under distributional shift.
 
-🔗 [Repository Link](https://github.com/baranerdogan11/YOUR_REPO_NAME)
+🔗 [Repository Link](https://github.com/baranerdogan11/AI-II-Final-Project)
 
 </td>
 <td width="50%">
