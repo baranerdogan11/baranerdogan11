@@ -80,10 +80,10 @@ Binary classifier trained on ~160k campaigns to predict funding success using on
 </td>
 <td width="50%">
 
-**[EMOJI] [YOUR FOURTH PROJECT]**  
-[2–3 sentence description. What problem does it solve? What did you build? What's the interesting technical decision?]
+**🛒 Eco-Smart AI Grocery Assistant**  
+Agentic grocery assistant that combines an LLM for implicit allergen reasoning (e.g. "creamy" → likely dairy) with a logistic regression safety classifier (92.5% accuracy). The LLM outputs constrained JSON rather than free text, which drives a dynamic Streamlit dashboard tracking ingredient safety, CO2 savings, and shelf-life discounts in real time.
 
-🔗 [Repository Link](https://github.com/baranerdogan11/YOUR_REPO_NAME)
+🔗 [Repository Link](https://github.com/baranerdogan11/eco-smart-ai-final)
 
 </td>
 </tr>
