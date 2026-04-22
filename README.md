@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi, I'm Baran Erdogan 👋
+# Hi, I'm Baran 👋
 
 ### MSc Business Analytics · ESADE Business School
 **Building at the intersection of machine learning, cloud infrastructure, and operational intelligence**
