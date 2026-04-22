@@ -104,7 +104,7 @@ Agentic grocery assistant that combines an LLM for implicit allergen reasoning (
 
 *Open to opportunities in data science, ML engineering, and analytics engineering — especially where the data is messy and the stakes are real.*
 
-**[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL@esade.edu)**
+**[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:baran.erdogan@alumni.esade.edu)**
 
 </div>
 
