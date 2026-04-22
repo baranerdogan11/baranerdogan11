@@ -97,14 +97,6 @@ The constraint-driven feature selection (nothing after the 2nd strike is allowed
 
 ---
 
-## What I'm Thinking About
-
-- How far can **constraint-aware ML** go in manufacturing — models that know what they're not allowed to see
-- **Medallion architecture** as a pattern for analytics engineering, not just data warehousing
-- The line between a **data analyst** and an **ML engineer** — I think it's blurring fast
-
----
-
 <div align="center">
 
 *Open to opportunities in data science, ML engineering, and analytics engineering — especially where the data is messy and the stakes are real.*
