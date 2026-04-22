@@ -62,10 +62,10 @@ End-to-end ML pipeline on ~180k PLC sensor readings from a steel forging line. P
 </td>
 <td width="50%">
 
-**[EMOJI] [YOUR SECOND PROJECT]**  
-[2–3 sentence description. What problem does it solve? What did you build? What's the interesting technical decision?]
+**🌳 San Francisco Urban Forest**   
+Data visualisation of 190,300 street trees across San Francisco using R — spatial density, Shannon biodiversity index by census tract, species distribution small multiples, and a 52-year planting timeline. Built an interactive HTML infographic with a click-to-focus panel system and a Mapbox-powered 3D extrusion map.
 
-🔗 [Repository Link](https://github.com/baranerdogan11/YOUR_REPO_NAME)
+🔗 [Repository Link](https://github.com/baranerdogan11/dataviz-club)
 
 </td>
 </tr>
