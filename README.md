@@ -20,8 +20,7 @@ I'm a Business Analytics student at ESADE with a passion for turning messy, real
 I come from **[YOUR BACKGROUND — e.g. a background in industrial engineering / finance / consulting]**, which gave me a strong appreciation for the gap between theoretical models and operational reality. At ESADE I've been closing that gap — building end-to-end pipelines from raw sensor data all the way to cloud-deployed inference endpoints.
 
 - Based in **Barcelona, Spain**
-- Fluent in **[Turkish, English, Spanish]**
-- Looking for roles in **Data Science, ML Engineering, or Analytics Engineering**
+- **Languages:** Turkish, English, Spanish
 
 ---
 
