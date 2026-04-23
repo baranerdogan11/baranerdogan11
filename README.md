@@ -5,7 +5,6 @@
 # Hi, I'm Baran👋
 
 ### MSc Business Analytics · ESADE Business School
-**Building at the intersection of machine learning, cloud infrastructure, and operational intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/baran-erdogan-34526921a/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaranErdogan)
