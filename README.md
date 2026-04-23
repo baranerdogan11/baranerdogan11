@@ -121,6 +121,6 @@ Agentic grocery assistant that combines an LLM for implicit allergen reasoning (
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:baran.erdogan@alumni.esade.edu)**
+**[LinkedIn](https://linkedin.com/in/baran-erdogan-34526921a/)) · [Email](mailto:baran.erdogan@alumni.esade.edu)**
 
 </div>
