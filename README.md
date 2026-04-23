@@ -2,6 +2,9 @@
 
 ![Header](https://raw.githubusercontent.com/baranerdogan11/baranerdogan11/main/header.svg)
 
+</div>
+
+---
 # Hi, I'm Baran👋
 
 ### MSc Business Analytics · ESADE Business School
