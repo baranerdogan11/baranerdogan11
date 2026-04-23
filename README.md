@@ -64,7 +64,7 @@ Below are selected repositories.
 
 End-to-end ML pipeline on ~180k PLC sensor readings from a steel forging line. Predicts total bath time after just the 2nd strike (18s into a 58s process), enabling real-time delay alerts before a piece finishes. Medallion architecture (Bronze → Silver → Gold) in PostgreSQL, XGBoost model deployed on AWS SageMaker with a live Streamlit dashboard.
 
-🔗 [Repository Link](https://github.com/baranerdogan11/YOUR_REPO_NAME)
+🔗 [Repository Link](https://github.com/baranerdogan11/baranerdogan-caws-final-project)
 
 </td>
 
