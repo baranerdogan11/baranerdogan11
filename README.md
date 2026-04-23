@@ -1,10 +1,9 @@
-<div align="center">
+<div align="left">
 
 ![Header](https://raw.githubusercontent.com/baranerdogan11/baranerdogan11/main/header.svg)
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CC1A1A&center=false&vCenter=true&width=620&lines=ML+pipelines+%C2%B7+AWS+SageMaker+%C2%B7+PostgreSQL;Industrial+Engineer+%E2%86%92+Data+Scientist;Building+systems+that+think+with+data" alt="Typing SVG" />
 
----
 # Hi, I'm Baran👋
 
 ### MSc Business Analytics · ESADE Business School
