@@ -1,0 +1,83 @@
+<svg viewBox="0 0 820 115" width="820" height="115" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%"   stop-color="#0a0a1e"/>
+    <stop offset="100%" stop-color="#060610"/>
+  </linearGradient>
+  <filter id="ng" x="-18%" y="-18%" width="136%" height="136%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="820" height="115" fill="url(#bg)"/>
+
+<!-- Card 1 — 1.75M+ data records -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".65s" begin=".08s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".65s" begin=".08s" fill="freeze"/>
+  <rect x="8" y="10" width="195" height="95" rx="5" fill="#0d0d1f" stroke="rgba(204,26,26,.20)" stroke-width="1"/>
+  <rect x="8" y="10" height="2.5" rx="1.2" fill="#cc1a1a" width="0">
+    <animate attributeName="width" from="0" to="195" dur=".42s" begin=".68s" fill="freeze"/>
+  </rect>
+  <text x="105" y="61" text-anchor="middle"
+        font-family="'Arial Black',Impact,sans-serif"
+        font-size="32" font-weight="900" fill="white" filter="url(#ng)">1.75M+</text>
+  <text x="105" y="82" text-anchor="middle"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="9" letter-spacing="2.5" font-weight="500"
+        fill="rgba(255,255,255,.38)">DATA RECORDS</text>
+</g>
+
+<!-- Card 2 — 10+ models trained -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".65s" begin=".24s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".65s" begin=".24s" fill="freeze"/>
+  <rect x="211" y="10" width="195" height="95" rx="5" fill="#0d0d1f" stroke="rgba(204,26,26,.20)" stroke-width="1"/>
+  <rect x="211" y="10" height="2.5" rx="1.2" fill="#cc1a1a" width="0">
+    <animate attributeName="width" from="0" to="195" dur=".42s" begin=".84s" fill="freeze"/>
+  </rect>
+  <text x="308" y="61" text-anchor="middle"
+        font-family="'Arial Black',Impact,sans-serif"
+        font-size="32" font-weight="900" fill="white" filter="url(#ng)">10+</text>
+  <text x="308" y="82" text-anchor="middle"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="9" letter-spacing="2.5" font-weight="500"
+        fill="rgba(255,255,255,.38)">MODELS TRAINED</text>
+</g>
+
+<!-- Card 3 — 4 AWS services -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".65s" begin=".40s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".65s" begin=".40s" fill="freeze"/>
+  <rect x="414" y="10" width="195" height="95" rx="5" fill="#0d0d1f" stroke="rgba(204,26,26,.20)" stroke-width="1"/>
+  <rect x="414" y="10" height="2.5" rx="1.2" fill="#cc1a1a" width="0">
+    <animate attributeName="width" from="0" to="195" dur=".42s" begin="1.00s" fill="freeze"/>
+  </rect>
+  <text x="511" y="61" text-anchor="middle"
+        font-family="'Arial Black',Impact,sans-serif"
+        font-size="32" font-weight="900" fill="white" filter="url(#ng)">4</text>
+  <text x="511" y="82" text-anchor="middle"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="9" letter-spacing="2.5" font-weight="500"
+        fill="rgba(255,255,255,.38)">AWS SERVICES</text>
+</g>
+
+<!-- Card 4 — 52 years of temporal data -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".65s" begin=".56s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur=".65s" begin=".56s" fill="freeze"/>
+  <rect x="617" y="10" width="195" height="95" rx="5" fill="#0d0d1f" stroke="rgba(204,26,26,.20)" stroke-width="1"/>
+  <rect x="617" y="10" height="2.5" rx="1.2" fill="#cc1a1a" width="0">
+    <animate attributeName="width" from="0" to="195" dur=".42s" begin="1.16s" fill="freeze"/>
+  </rect>
+  <text x="714" y="61" text-anchor="middle"
+        font-family="'Arial Black',Impact,sans-serif"
+        font-size="32" font-weight="900" fill="white" filter="url(#ng)">52 yrs</text>
+  <text x="714" y="82" text-anchor="middle"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="9" letter-spacing="2.5" font-weight="500"
+        fill="rgba(255,255,255,.38)">OF TEMPORAL DATA</text>
+</g>
+
+</svg>
