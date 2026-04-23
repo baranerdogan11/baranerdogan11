@@ -2,12 +2,12 @@
 
 ![Header](https://raw.githubusercontent.com/baranerdogan11/baranerdogan11/main/header.svg)
 
-# Hi, I'm Baran Erdogan 👋
+# Hi, I'm Baran👋
 
 ### MSc Business Analytics · ESADE Business School
 **Building at the intersection of machine learning, cloud infrastructure, and operational intelligence**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/baran-erdogan-34526921a/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaranErdogan)
 [![Email](https://img.shields.io/badge/baran.erdogan%40alumni.esade.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baran.erdogan@alumni.esade.edu)
 
@@ -17,13 +17,13 @@
 
 ## About Me
 
-I'm a Business Analytics student at ESADE with a passion for turning messy, real-world data into systems that actually work in production. I'm particularly drawn to problems where ML meets physical processes — manufacturing, logistics, operations — where a good prediction has a tangible, measurable impact.
+Business Analytics Master's at ESADE. 
+Industrial Engineering Graduate from Purdue University.
 
-I come from **[YOUR BACKGROUND — e.g. a background in industrial engineering / finance / consulting]**, which gave me a strong appreciation for the gap between theoretical models and operational reality. At ESADE I've been closing that gap — building end-to-end pipelines from raw sensor data all the way to cloud-deployed inference endpoints.
+Focused on ML, data pipelines, and AI applied systems. I build interesting and exciting stuff. 
 
-- Based in **Barcelona, Spain**
-- Fluent in **[YOUR LANGUAGES — e.g. Turkish, English, Spanish]**
-- Looking for roles in **data science, ML engineering, or analytics engineering**
+- Based in **Barcelona, Spain**. Lived in the United States & Turkey.
+- **Languages:** Turkish, English, Spanish
 
 ---
 
@@ -112,17 +112,7 @@ Agentic grocery assistant that combines an LLM for implicit allergen reasoning (
 
 ---
 
-## What I'm Thinking About
-
-- How far can **constraint-aware ML** go in manufacturing — models that know what they're not allowed to see
-- **Medallion architecture** as a pattern for analytics engineering, not just data warehousing
-- The line between a **data analyst** and an **ML engineer** — I think it's blurring fast
-
----
-
 <div align="center">
-
-*Open to opportunities in data science, ML engineering, and analytics engineering — especially where the data is messy and the stakes are real.*
 
 **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:baran.erdogan@alumni.esade.edu)**
 
