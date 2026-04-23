@@ -128,16 +128,6 @@ Agentic grocery assistant that combines an LLM for implicit allergen reasoning (
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baranerdogan11&layout=compact&theme=github_dark&hide_border=true&hide=typescript,javascript,css,html,scss)
-
-</div>
-
----
-
 ### 🐍 Contributions
 
 <div align="center">
