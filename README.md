@@ -104,6 +104,24 @@ Agentic grocery assistant that combines an LLM for implicit allergen reasoning (
 
 </tr>
 
+<tr>
+
+<td width="50%">
+
+**⚖️ The Devil's Advocate — Rental Contract Analyzer**
+
+Multi-agent AI system that analyzes Spanish and Catalan rental contracts for abusive clauses. Three specialized agents (Tenant Advocate, Landlord Lawyer, Judge) debate each clause using OpenAI embeddings for pre-screening against 58 labeled reference clauses, then render risk verdicts with plain-language explanations and clause rewrites.
+
+🔗 [Repository](https://github.com/baranerdogan11/signability-checker-app) · 🌐 [Live App](https://signability-checker-app.onrender.com)
+
+</td>
+
+<td width="50%">
+
+</td>
+
+</tr>
+
 </table>
 
 ---
