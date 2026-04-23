@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ![Header](https://raw.githubusercontent.com/baranerdogan11/baranerdogan11/main/header.svg)
 
