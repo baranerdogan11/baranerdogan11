@@ -122,6 +122,30 @@ Multi-agent AI system that analyzes Spanish and Catalan rental contracts for abu
 
 </tr>
 
+<tr>
+
+<td width="50%">
+
+**🏀 Euroleague 2026/27 Season Prediction**
+
+Pre-season forecast of the Euroleague standings. XGBoost home-win classifier anchored on Elo, trained on 1,848 games across six seasons with leakage-free pre-game features, roster-aware priors built from this summer's registered rosters (PIR, RAPM, continuity), and a 10,000-run Monte Carlo over the official 380-game schedule with Euroleague tiebreaks. Validated season by season: log loss 0.616 vs 0.655 for the home-court base rate.
+
+🔗 [Repository Link](https://github.com/baranerdogan11/Euroleague-2026-27-Season-Prediction)
+
+</td>
+
+<td width="50%">
+
+**🎯 Euroleague Shot Profiles**
+
+Player stats and animated shot charts for every Euroleague player, refreshed game by game from the league's official feeds. Team and player dropdowns, media-day photos, per-game stat tiles, shooting splits with true shooting, five-zone accuracy, and every field-goal attempt of the season played back on a half court, made and missed. Single self-contained page, no backend.
+
+🔗 [Repository Link](https://github.com/baranerdogan11/Euroleague-Shot-Profiles)
+
+</td>
+
+</tr>
+
 </table>
 
 ---
