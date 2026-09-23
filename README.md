@@ -140,7 +140,7 @@ Pre-season forecast of the Euroleague standings. XGBoost home-win classifier anc
 
 Player stats and animated shot charts for every Euroleague player, refreshed game by game from the league's official feeds. Team and player dropdowns, media-day photos, per-game stat tiles, shooting splits with true shooting, five-zone accuracy, and every field-goal attempt of the season played back on a half court, made and missed. Single self-contained page, no backend.
 
-🔗 [Repository Link](https://github.com/baranerdogan11/Euroleague-Shot-Profiles)
+🔗 [Repository](https://github.com/baranerdogan11/Euroleague-Shot-Profiles) · 🌐 [Live App](https://baranerdogan11.github.io/Euroleague-Shot-Profiles/)
 
 </td>
 
