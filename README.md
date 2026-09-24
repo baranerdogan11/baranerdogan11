@@ -136,11 +136,11 @@ Pre-season forecast of the Euroleague standings. XGBoost home-win classifier anc
 
 <td width="50%">
 
-**🎯 Euroleague Shot Profiles**
+**🎯 Euroleague Player Lab**
 
-Production data system on the Euroleague's official feeds: a nightly pipeline (GitHub Actions) with data-quality gates and reconciliation tests, a DuckDB/Parquet warehouse with roster stints, an expected-field-goal model (gradient boosting, time-validated, leakage found and removed) that scores every shot, shot-quality vs shooting-skill profiles with empirical-Bayes shrinkage, and the model served as a versioned FastAPI container (registry, request logging, CI-published image on GHCR). Front end: 2D and 3D animated shot charts for every player.
+Production data system on the Euroleague's official feeds: a nightly pipeline (GitHub Actions) with data-quality gates and reconciliation tests, a DuckDB/Parquet warehouse with roster stints, an expected-field-goal model (gradient boosting, time-validated, leakage found and removed) that scores every shot, shot-quality vs shooting-skill profiles with empirical-Bayes shrinkage, and the model served as a versioned FastAPI container (registry, request logging, CI-published image on GHCR). Front end: per-player performance pages with season stats, 2D and 3D animated shot charts and validated LLM scouting notes.
 
-🔗 [Repository](https://github.com/baranerdogan11/Euroleague-Shot-Profiles) · 🌐 [Live App](https://baranerdogan11.github.io/Euroleague-Shot-Profiles/) · ⚙️ [Live API](https://euroleague-xfg.onrender.com/docs)
+🔗 [Repository](https://github.com/baranerdogan11/Euroleague-Player-Lab) · 🌐 [Live App](https://baranerdogan11.github.io/Euroleague-Player-Lab/) · ⚙️ [Live API](https://euroleague-xfg.onrender.com/docs)
 
 </td>
 
